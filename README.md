@@ -2,6 +2,9 @@
 Multiplication of 2 Matrix (parallel)
 
 
+Please first read Presentation File pdf to further comprehension
+
+
 There are  input file witch it represent matrix A & B  
 
 
